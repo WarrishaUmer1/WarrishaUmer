@@ -38,7 +38,7 @@ Passionate and detail-oriented **QA Automation Lead** with 5+ years of experienc
 
 | Test Type          | Description                      | Link         |
 |--------------------|----------------------------------|--------------|
-| Manual Test Cases  | Login, Checkout, API Validations | [View](https://docs.google.com/spreadsheets/d/1ZekCkr89OnUehr7SVZzgeT14MAmw-Rny/edit?usp=sharing&ouid=115906125699289151512&rtpof=true&sd=true)    |
+| Manual Test Cases  | Testcase Document Link           | [View](https://docs.google.com/spreadsheets/d/1ZekCkr89OnUehr7SVZzgeT14MAmw-Rny/edit?usp=sharing&ouid=115906125699289151512&rtpof=true&sd=true)    |
 | Automation Scripts | Web UI Automation                | [View](https://docs.google.com/spreadsheets/d/1eh_OUsTUEWHwufF3AwFt8bhUCngja5-w/edit?usp=sharing&ouid=115906125699289151512&rtpof=true&sd=true)    |
 
 ---
