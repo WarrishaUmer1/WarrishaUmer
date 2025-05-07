@@ -27,7 +27,7 @@ Passionate and detail-oriented **QA Automation Lead** with 5+ years of experienc
 ### 🔹 API Testing with Postman
 - Created and executed functional API test cases for multiple endpoints
 - Validated JSON responses, authentication, and error handling
-- 🔗 [View Collection](#)
+- 🔗 [View Collection](QA Portfolio API Collection.postman_collection.json)
 
 ### 🔹 Selenium + TestNG Automation (Java)
 - Designed robust test cases for cross-browser testing
