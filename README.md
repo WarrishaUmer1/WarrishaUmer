@@ -58,28 +58,49 @@ Passionate and detail-oriented **QA Automation Lead** with 5+ years of experienc
 
 *Roles and responsibilities: *
 -Led manual testing efforts for multiple high-impact web, mobile, and desktop applications in the healthcare domain, significantly improving defect identification and overall product quality.
+
 -Collaborated with cross-functional teams during requirement analysis, ensuring 100% test coverage.
+
 -Conducted API testing using Postman, validating endpoint functionality, data integrity, and reliability, in compliance with healthcare data requirements.
+
 -Managed resource allocation, project timelines, and release cycles to meet tight deadlines.
+
 -Trained and mentored junior QA engineers, enhancing team productivity.
+
 -Effective communication with clients to resolve conflicts, and ambiguity in requirements.
+
 -Developed and executed test scripts using Protractor with the Jasmine framework, and Selenium with the JUnit/TestNG framework in Java.
+
 -Developed and executed test scripts for a web application using the Cypress automation framework.
+
 -Integrating automation scripts with CI/CD pipelines.
 
 *Skills and Tools: *
+
 -Test Process and Documentation: System Requirement Analysis, Test Planning, Test Execution, and Defect Tracking.
+
 -Testing Types: Black-box Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, System Testing, Cross-Browser Testing, Cross-Platform Testing, Ad hoc Testing, Exploratory Testing, and API Testing.
+
 -Testing Platforms: Web Application Testing, Mobile Application Testing, and Desktop Application Testing.
+
 -Defect Tracking Tools: Azure DevOps.
+
 -AI tools: ChatGPT, GitHub Copilot, and Windsurf Cascade.
+
 -Programming languages: JavaScript, Java.
+
 -Automation Tools: Cypress, Selenium, Protractor, and Appium.
+
 -API and Performance Testing: Postman, JMeter.
+
 -Test Frameworks: TestNG, JUnit, NUnit, Jasmine, Mocha, and Chai.
+
 -CI/CD & DevOps: CI/CD pipelines, Azure DevOps, Git, and Microsoft TFS.
+
 -Methodologies: Agile methodology.
+
 -Soft Skills: Leadership, Resource Allocation, Task Delegation, Release Management, Analytical and Technical Skills, and Effective Communication with Clients.
+
 
 Domain: Healthcare products.
 
